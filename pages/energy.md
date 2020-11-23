@@ -5,6 +5,10 @@ title: Energy
 ### Connectors
 ### USB C
 ### [Wago](https://www.wago.com/)
+#### [ring terminals](https://www.mcmaster.com/ring-terminals/)
+#### [Wago](https://www.wago.com/)
+#### USB C
+### [Wago](https://www.wago.com/)
 ### [ring terminals](https://www.mcmaster.com/ring-terminals/)
 ## conversion
 ### USB C allows the power source to request required power from the power sink
