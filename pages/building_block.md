@@ -2,4 +2,4 @@
 title: building block
 ---
 
-## Building blocks are systems with modular interfaces.
+## Building blocks are structures with modular interfaces.
