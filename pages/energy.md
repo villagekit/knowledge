@@ -2,7 +2,7 @@
 title: Energy
 ---
 
-## Energy Connectors
+### Connectors
 ### USB C
 ### [Wago](https://www.wago.com/)
 ### [ring terminals](https://www.mcmaster.com/ring-terminals/)
