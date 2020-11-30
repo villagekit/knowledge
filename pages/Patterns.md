@@ -7,11 +7,6 @@ title: Patterns
 ## [[Patterns]]
 ### With an initial focus on living, the relevant systems include:
 
-### Physical
-#### [[Grid]]
-
-#### [[Energy]]
-
 #### [[Heat]]
 
 #### [[Fluids]]
