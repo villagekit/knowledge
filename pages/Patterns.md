@@ -11,10 +11,4 @@ title: Patterns
 #### [[Fluids]]
 
 ### Socio-economic
-#### [[Ownership]]
-
-#### [[Stewardship]]
-
-### More information will arise as we make progress with our prototypes, stay tuned.
-
 ## 
