@@ -1,5 +1,8 @@
 ---
 title: Heat
+public: true
+published: true
+permalink: heat
 ---
 
 ## conversion
