@@ -1,5 +1,8 @@
 ---
 title: GridKit
+public: true
+published: true
+permalink: gridkit
 ---
 
 ## Logo:
