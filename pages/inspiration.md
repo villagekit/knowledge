@@ -1,5 +1,8 @@
 ---
 title: Inspiration
+published: true
+permalink: inspiration
+public: true
 ---
 
 ## Here are some resources and peer projects that have inspired us:
