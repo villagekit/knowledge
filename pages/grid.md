@@ -1,5 +1,7 @@
 ---
 title: Grid
+public: true
+published: true
 ---
 
 ## based on [Grid Beam](https://gridbeam.xyz)
