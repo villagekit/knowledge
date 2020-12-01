@@ -1,6 +1,8 @@
 ---
 title: Patterns
 public: true
+published: true
+permalink: patterns
 ---
 
 ## We are developing open source patterns for every facet of living infrastructure, where each pattern focuses on making one thing more friendly.
