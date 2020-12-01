@@ -7,7 +7,7 @@ title: Patterns
 ## Our hypothesis is that a few top-down standardized interfaces will best support bottom-up stigmergic ecosystems.
 us on living
 ## Physical
-### [[Structure]]
+### [[Grid]]
 ### [[Energy]]
 ### [[Heat]]
 ### [[Fluids]]
