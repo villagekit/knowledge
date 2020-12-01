@@ -1,5 +1,8 @@
 ---
 title: Ownership
+public: true
+published: true
+permalink: ownership
 ---
 
 ## shares in a company
