@@ -1,5 +1,8 @@
 ---
 title: Energy
+public: true
+published: true
+permalink: energy
 ---
 
 ### Connectors
